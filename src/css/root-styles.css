@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;900&display=swap');
+
+:root {
+    --secondary-color-orange: #F66B0E;
+    --main-color-dark: #112B3C;
+    --main-color-light: #828282;
+    --primary-color-light: #BDBDBD;
+    --font-family-main: 'Source Sans Pro', sans-serif;
+    --text-font-size: 1.25rem;
+}
+
+.text-main-dark{
+    color: var(--main-color-dark) ;
+    font-family: var(--font-family-main);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.text-main-light{
+    color: var(--main-color-light) ;
+}
+
+.section-margin{
+    margin: 3.75rem 0 3.75rem 0;
+}
+
+.text-center{
+    text-align: center;
+}

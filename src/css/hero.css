@@ -1,0 +1,90 @@
+.hero-section{
+    position: relative;
+}
+
+.hero-text{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 6rem;
+}
+
+.hero-text h1{
+    font-size: 5rem;
+    margin-bottom: 2rem;
+    color: var(--main-color-dark);
+}
+
+.hero-text p {
+    font-weight: 400;
+    font-size: var(--text-font-size);
+    width: 80%;
+    margin: auto;
+    color: var(--main-color-light);
+}
+
+.hero-element{
+    position: absolute;
+    top: 3rem;
+    right: 50px;
+}
+
+.hero-img{
+    background-image: url('../img/hero-img3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35rem;
+    position: relative;
+}
+
+.serach-input{
+    width: 60%;
+    margin: auto;
+    position: absolute;
+    top: -2rem;
+    left: 21%;
+}
+
+#product-search{
+    padding: 25px;
+    width: 100%;
+    outline: none;
+    border: 0;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.12);
+    font-size: 16px;
+}
+
+#product-search::placeholder{
+    color: var(--primary-color-light);
+}
+
+.search-icon{
+    position: absolute;
+    right: 1rem;
+    top: 25%;
+}
+
+@media screen and (max-width: 768px) {
+    .hero-text{
+        width: 80%;
+    }
+
+    .hero-text h1{
+        font-size: 3.5rem;
+    }
+
+    .hero-text p{
+        width: 90%;
+    }
+
+    .hero-element{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .serach-input{
+        width: 75%;
+        left: 11%;
+    }
+}

@@ -1,0 +1,132 @@
+.products-section{
+    margin-top: 4rem;
+}
+
+.products-section h2{
+    font-weight: 700;
+    font-size: 4rem;
+    color: var(--main-color-dark);
+    text-align: center;
+}
+
+.products-links{
+    width: 90%;
+    justify-content: center;
+}
+
+.product-categories .products-links li a{
+    color: var(--main-color-light);
+}
+
+.product-categories .products-links li a:hover{
+    color: var(--secondary-color-orange);
+}
+
+.product-categories .products-links li .selected-link{
+    font-weight: bold;
+    color: var(--secondary-color-orange);
+}
+
+.product-card{
+    width: 24%;
+    height: 16rem;
+    background-color: #FFF8F0;
+    margin-top: 14rem;
+    position: relative;
+    border-top-left-radius: 20px;
+}
+
+.product-img{
+    position: absolute;
+    left: 15%;
+    bottom: 10rem;
+}
+
+.product-details{
+    position: absolute;
+    bottom: 0.5rem;
+    padding: 0 1rem;
+    width: 100%;
+}
+
+.product-details h4{
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: var(--main-color-dark);
+}
+
+.price-and-cart p{
+    color: var(--main-color-dark);
+    font-size: 16px;
+}
+
+.product-card .product-details .price-and-cart .cart-btn{
+    border: none;
+    background-color: var(--main-color-dark);
+    color: white;
+    padding: 0 18px;
+    margin-right: 2rem;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    cursor: pointer;
+}
+
+.product-card .product-details .price-and-cart .cart-btn:hover{
+    animation-name: add-to-cart;
+    animation-duration: 4s;
+    animation-iteration-count: infinite; 
+}
+
+@media screen and (max-width: 768px) {
+    .product-card{
+        width: 49%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .closet-products{
+        margin-left: 0;
+    }
+
+    .md-width-product-list{
+        width: 100%;
+        justify-content: center;
+        margin-top: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .product-card{
+        width: 100%;
+    }
+}
+
+@keyframes add-to-cart {
+    15%   {
+        background-color: var(--secondary-color-orange);
+        transform: skewY(5deg);
+    }
+    30%{
+        transform: skewX(0deg);
+    }
+    40%{
+        transform: skewY(-5deg);
+        background-color: var(--secondary-color-orange);
+    }
+    55%  {
+        transform: skewY(0deg);
+    }
+    65%{
+        background-color: #1C3AA4;
+        transform: skewY(5deg);
+    }
+    75%{
+        transform: skewX(0deg);
+    }
+    85%  {
+        transform: translateX(30px);
+    }
+    100%  {
+        transform: translateX(-30px);
+    }
+  }
