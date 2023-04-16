@@ -1,6 +1,6 @@
 # ![Logo](https://user-images.githubusercontent.com/38161296/232326406-ee6eea30-96a0-4605-9d45-4386be8121f3.png) home decor 
 
-This is a responsive furniture e-commerce website built with React, JavaScript, HTML, and CSS. I built this website to test what I have learnt about React props and to further improve my skills in web development. You can acess the **[live website here](https://lovelyfin00.github.io/zing-home-decor/)*
+This is a responsive furniture e-commerce website built with React, JavaScript, HTML, and CSS. I built this website to test what I have learnt about React props and to further improve my skills in web development. You can acess the *[live website here](https://lovelyfin00.github.io/zing-home-decor/)*
 
 ## Features
 - Responsive design with mobile-first approach
