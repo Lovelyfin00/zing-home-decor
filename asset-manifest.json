@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zing-home-decor/static/css/main.f87f9923.css",
+    "main.js": "/zing-home-decor/static/js/main.0cc315de.js",
+    "static/media/hero-img3.jpg": "/zing-home-decor/static/media/hero-img3.f07de75bfb10d8ed35b6.jpg",
+    "static/media/customer-img.png": "/zing-home-decor/static/media/customer-img.f8b95bb84bb51a045633.png",
+    "static/media/about-us-img2.png": "/zing-home-decor/static/media/about-us-img2.1d6ef95d1a050e5ff516.png",
+    "static/media/about-us-img3.png": "/zing-home-decor/static/media/about-us-img3.34b37f694d9cccd9d51c.png",
+    "static/media/about-us-img1.png": "/zing-home-decor/static/media/about-us-img1.d4b758264982da982219.png",
+    "static/media/bedside-table.png": "/zing-home-decor/static/media/bedside-table.09aebd86769f6f670ddd.png",
+    "static/media/about-us-img4.png": "/zing-home-decor/static/media/about-us-img4.b2f437be2e526ee2f4a6.png",
+    "static/media/chair.png": "/zing-home-decor/static/media/chair.4491e79bd7f29ca5f447.png",
+    "static/media/Sofa-white.png": "/zing-home-decor/static/media/Sofa-white.7c1ba8f7972930c6243e.png",
+    "static/media/Sofa-black.png": "/zing-home-decor/static/media/Sofa-black.0e7c0288df14cc581fbe.png",
+    "static/media/stool.png": "/zing-home-decor/static/media/stool.f2285dd5c6d1487aebbc.png",
+    "static/media/light-chair.png": "/zing-home-decor/static/media/light-chair.51b13cc3fca02a9ab2ea.png",
+    "static/media/Tea-table.png": "/zing-home-decor/static/media/Tea-table.188dbacd8b15b8948602.png",
+    "index.html": "/zing-home-decor/index.html",
+    "main.f87f9923.css.map": "/zing-home-decor/static/css/main.f87f9923.css.map",
+    "main.0cc315de.js.map": "/zing-home-decor/static/js/main.0cc315de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87f9923.css",
+    "static/js/main.0cc315de.js"
+  ]
+}
