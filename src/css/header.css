@@ -9,6 +9,10 @@ body {
   font-family: var(--font-family);
 }
 
+section{
+  scroll-margin-top: 4rem;
+}
+
 .container{
   width: 90%;
   margin: auto;
