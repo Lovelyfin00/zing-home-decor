@@ -67,3 +67,24 @@
         margin-top: 8rem;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .testimonial-section{
+        padding: 2rem;
+    }
+
+    .customer-img-div{
+        margin: auto;
+    }
+
+    .customer-comment{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .customer-img{
+        width: 15rem;
+        object-fit: contain;
+    }
+}
