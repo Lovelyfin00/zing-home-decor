@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zing-home-decor/static/css/main.f87f9923.css",
-    "main.js": "/zing-home-decor/static/js/main.0cc315de.js",
+    "main.css": "/zing-home-decor/static/css/main.f833492c.css",
+    "main.js": "/zing-home-decor/static/js/main.6e0bfa32.js",
     "static/media/hero-img3.jpg": "/zing-home-decor/static/media/hero-img3.f07de75bfb10d8ed35b6.jpg",
     "static/media/customer-img.png": "/zing-home-decor/static/media/customer-img.f8b95bb84bb51a045633.png",
     "static/media/about-us-img2.png": "/zing-home-decor/static/media/about-us-img2.1d6ef95d1a050e5ff516.png",
@@ -16,11 +16,11 @@
     "static/media/light-chair.png": "/zing-home-decor/static/media/light-chair.51b13cc3fca02a9ab2ea.png",
     "static/media/Tea-table.png": "/zing-home-decor/static/media/Tea-table.188dbacd8b15b8948602.png",
     "index.html": "/zing-home-decor/index.html",
-    "main.f87f9923.css.map": "/zing-home-decor/static/css/main.f87f9923.css.map",
-    "main.0cc315de.js.map": "/zing-home-decor/static/js/main.0cc315de.js.map"
+    "main.f833492c.css.map": "/zing-home-decor/static/css/main.f833492c.css.map",
+    "main.6e0bfa32.js.map": "/zing-home-decor/static/js/main.6e0bfa32.js.map"
   },
   "entrypoints": [
-    "static/css/main.f87f9923.css",
-    "static/js/main.0cc315de.js"
+    "static/css/main.f833492c.css",
+    "static/js/main.6e0bfa32.js"
   ]
 }
