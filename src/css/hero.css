@@ -1,5 +1,5 @@
 .hero-section{
-    position: relative;
+    position: relative;    
 }
 
 .hero-text{
@@ -12,6 +12,7 @@
     font-size: 5rem;
     margin-bottom: 2rem;
     color: var(--main-color-dark);
+    margin-top: 8rem;
 }
 
 .hero-text p {
